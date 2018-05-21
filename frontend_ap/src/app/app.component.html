@@ -1,0 +1,38 @@
+<h1>Wifi Configuration</h1>
+
+<p-accordion styleClass="my-accordeon">
+  <div *ngFor="let network of networks; index as i">
+    <div *ngIf="network.BSSID == selectedBSSID">
+      <p-accordionTab header="* {{network.SSID}}" class="network-selected">
+        <ul>
+          <li><span class="detail-key">SSID</span>: <span class="detail-value">{{network.SSID}}</span></li>
+          <li><span class="detail-key">RSSI</span>: <span class="detail-value">{{network.RSSI}}</span></li>
+          <li><span class="detail-key">BSSID</span>: <span class="detail-value">{{network.BSSID}}</span></li>
+          <li><span class="detail-key">channel</span>: <span class="detail-value">{{network.channel}}</span></li>
+          <li><span class="detail-key">hidden</span>: <span class="detail-value">{{network.hidden}}</span></li>
+        </ul>
+      </p-accordionTab>
+    </div>
+
+    <div *ngIf="network.BSSID != selectedBSSID">
+      <p-accordionTab header="{{network.SSID}}" >
+        <p-button label="Choose ths network" (onClick)="onChooseNetwork(i)"></p-button>
+        <ul>
+          <li><span class="detail-key">SSID</span>: <span class="detail-value">{{network.SSID}}</span></li>
+          <li><span class="detail-key">RSSI</span>: <span class="detail-value">{{network.RSSI}}</span></li>
+          <li><span class="detail-key">BSSID</span>: <span class="detail-value">{{network.BSSID}}</span></li>
+          <li><span class="detail-key">channel</span>: <span class="detail-value">{{network.channel}}</span></li>
+          <li><span class="detail-key">hidden</span>: <span class="detail-value">{{network.hidden}}</span></li>
+        </ul>
+      </p-accordionTab>
+    </div>
+  </div>
+</p-accordion>
+
+<p-dialog header="Choose Password" [(visible)]="passwordDialogVisible" [modal]="true" [responsive]="true" >
+  <input type="password" pPassword [(ngModel)]="tempPassword" placeholder="Password" feedback="" (keyup.enter)="onPasswordDialogOk()" >
+  <p-footer>
+    <button type="button" pButton icon="fa-check" (click)="onPasswordDialogOk()" label="Ok"></button>
+    <button type="button" pButton icon="fa-close" (click)="onPasswordDialogCancel()" label="Cancel"></button>
+  </p-footer>
+</p-dialog>

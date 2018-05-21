@@ -1,0 +1,258 @@
+[
+  {
+    "SSID": "zebrafarm",
+    "encryptionType": 4,
+    "RSSI": "(-34dBm)",
+    "BSSID": "9C:C7:A6:FC:17:29",
+    "channel": 1,
+    "hidden": "false"
+  },
+  {
+    "SSID": "FRITZ!Box 7490",
+    "encryptionType": 4,
+    "RSSI": "(-60dBm)",
+    "BSSID": "38:10:D5:DE:D3:B7",
+    "channel": 11,
+    "hidden": "false"
+  },
+  {
+    "SSID": "anders",
+    "encryptionType": 4,
+    "RSSI": "(-61dBm)",
+    "BSSID": "9C:C7:A6:42:F9:DF",
+    "channel": 1,
+    "hidden": "false"
+  },
+  {
+    "SSID": "WLAN-962995",
+    "encryptionType": 4,
+    "RSSI": "(-70dBm)",
+    "BSSID": "9C:80:DF:98:A3:37",
+    "channel": 1,
+    "hidden": "false"
+  },
+  {
+    "SSID": "o2-WLAN26",
+    "encryptionType": 4,
+    "RSSI": "(-73dBm)",
+    "BSSID": "E8:37:7A:B9:8A:33",
+    "channel": 8,
+    "hidden": "false"
+  },
+  {
+    "SSID": "SCRUMHALF",
+    "encryptionType": 8,
+    "RSSI": "(-75dBm)",
+    "BSSID": "64:70:02:84:F6:04",
+    "channel": 4,
+    "hidden": "false"
+  },
+  {
+    "SSID": "EasyBox-0F0104",
+    "encryptionType": 8,
+    "RSSI": "(-76dBm)",
+    "BSSID": "18:83:BF:0F:01:C4",
+    "channel": 10,
+    "hidden": "false"
+  },
+  {
+    "SSID": "KDG-312B5",
+    "encryptionType": 8,
+    "RSSI": "(-78dBm)",
+    "BSSID": "5C:35:3B:F3:12:BA",
+    "channel": 6,
+    "hidden": "false"
+  },
+  {
+    "SSID": "KabelBox-3B80",
+    "encryptionType": 4,
+    "RSSI": "(-80dBm)",
+    "BSSID": "A0:39:EE:B5:3B:85",
+    "channel": 6,
+    "hidden": "false"
+  },
+  {
+    "SSID": "o2-WLAN62",
+    "encryptionType": 4,
+    "RSSI": "(-81dBm)",
+    "BSSID": "88:03:55:FA:4E:72",
+    "channel": 2,
+    "hidden": "false"
+  },
+  {
+    "SSID": "FRITZ!Box 7490",
+    "encryptionType": 4,
+    "RSSI": "(-81dBm)",
+    "BSSID": "34:31:C4:09:E2:E6",
+    "channel": 1,
+    "hidden": "false"
+  },
+  {
+    "SSID": "Gnurbsch",
+    "encryptionType": 4,
+    "RSSI": "(-81dBm)",
+    "BSSID": "A0:8D:16:58:38:74",
+    "channel": 11,
+    "hidden": "false"
+  },
+  {
+    "SSID": "xmalversucht",
+    "encryptionType": 4,
+    "RSSI": "(-81dBm)",
+    "BSSID": "58:8B:F3:1F:55:0F",
+    "channel": 7,
+    "hidden": "false"
+  },
+  {
+    "SSID": "URTI",
+    "encryptionType": 4,
+    "RSSI": "(-82dBm)",
+    "BSSID": "D4:63:FE:41:02:24",
+    "channel": 10,
+    "hidden": "false"
+  },
+  {
+    "SSID": "o2-WLAN08",
+    "encryptionType": 4,
+    "RSSI": "(-84dBm)",
+    "BSSID": "58:8B:F3:58:16:89",
+    "channel": 12,
+    "hidden": "false"
+  },
+  {
+    "SSID": "Telekom_FON",
+    "encryptionType": 7,
+    "RSSI": "(-86dBm)",
+    "BSSID": "90:67:1C:A3:34:EA",
+    "channel": 1,
+    "hidden": "false"
+  },
+  {
+    "SSID": "FRITZ!Box 6490 Cable",
+    "encryptionType": 4,
+    "RSSI": "(-86dBm)",
+    "BSSID": "C8:0E:14:8D:A7:4F",
+    "channel": 1,
+    "hidden": "false"
+  },
+  {
+    "SSID": "Vodafone Homespot",
+    "encryptionType": 7,
+    "RSSI": "(-87dBm)",
+    "BSSID": "8A:5C:44:D1:D7:85",
+    "channel": 1,
+    "hidden": "false"
+  },
+  {
+    "SSID": "CasadeMila",
+    "encryptionType": 4,
+    "RSSI": "(-87dBm)",
+    "BSSID": "9C:3D:CF:C7:78:58",
+    "channel": 13,
+    "hidden": "false"
+  },
+  {
+    "SSID": "NvB",
+    "encryptionType": 4,
+    "RSSI": "(-88dBm)",
+    "BSSID": "90:67:1C:A3:34:E9",
+    "channel": 1,
+    "hidden": "false"
+  },
+  {
+    "SSID": "Vodafone Hotspot",
+    "encryptionType": 7,
+    "RSSI": "(-89dBm)",
+    "BSSID": "86:5C:44:A1:7D:CA",
+    "channel": 1,
+    "hidden": "false"
+  },
+  {
+    "SSID": "Vodafone Hotspot",
+    "encryptionType": 7,
+    "RSSI": "(-90dBm)",
+    "BSSID": "04:35:3B:AF:83:ED",
+    "channel": 1,
+    "hidden": "false"
+  },
+  {
+    "SSID": "FRITZ!Box 6490 Cable_EXT",
+    "encryptionType": 4,
+    "RSSI": "(-90dBm)",
+    "BSSID": "10:DA:43:0B:FD:49",
+    "channel": 1,
+    "hidden": "false"
+  },
+  {
+    "SSID": "KabelBox-F9C6",
+    "encryptionType": 4,
+    "RSSI": "(-90dBm)",
+    "BSSID": "90:5C:44:D1:D7:85",
+    "channel": 1,
+    "hidden": "false"
+  },
+  {
+    "SSID": "Vodafone Homespot",
+    "encryptionType": 7,
+    "RSSI": "(-91dBm)",
+    "BSSID": "8A:5C:44:A1:7D:CA",
+    "channel": 1,
+    "hidden": "false"
+  },
+  {
+    "SSID": "o2-WLAN03",
+    "encryptionType": 4,
+    "RSSI": "(-91dBm)",
+    "BSSID": "90:EF:68:38:7F:C1",
+    "channel": 9,
+    "hidden": "false"
+  },
+  {
+    "SSID": "KabelBox-BD3C",
+    "encryptionType": 4,
+    "RSSI": "(-91dBm)",
+    "BSSID": "90:5C:44:A1:7D:CA",
+    "channel": 1,
+    "hidden": "false"
+  },
+  {
+    "SSID": "KDG-F83E6",
+    "encryptionType": 4,
+    "RSSI": "(-91dBm)",
+    "BSSID": "5C:35:3B:AF:83:EB",
+    "channel": 1,
+    "hidden": "false"
+  },
+  {
+    "SSID": "airlanTD.mac",
+    "encryptionType": 4,
+    "RSSI": "(-92dBm)",
+    "BSSID": "90:72:40:1B:04:A6",
+    "channel": 11,
+    "hidden": "false"
+  },
+  {
+    "SSID": "Vodafone Hotspot",
+    "encryptionType": 7,
+    "RSSI": "(-92dBm)",
+    "BSSID": "86:5C:44:D1:D7:85",
+    "channel": 1,
+    "hidden": "false"
+  },
+  {
+    "SSID": "WLAN-039833",
+    "encryptionType": 4,
+    "RSSI": "(-92dBm)",
+    "BSSID": "94:4A:0C:96:E6:6B",
+    "channel": 1,
+    "hidden": "false"
+  },
+  {
+    "SSID": "Cerberus_02",
+    "encryptionType": 4,
+    "RSSI": "(-94dBm)",
+    "BSSID": "E2:28:6D:02:04:24",
+    "channel": 11,
+    "hidden": "false"
+  }
+]
